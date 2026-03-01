@@ -3,6 +3,7 @@
 This repo provides inference code for retinal OCT classification and triage report generation using:
 - Base model: `google/medgemma-4b-it`
 - LoRA adapter: hosted on Hugging Face (default: `meetsiddhapura/2000-chkpnt`)
+- LoRA adapters on Hugging Face: `https://huggingface.co/lanarkite99/medgemma_lora`
 
 ## Hardware Requirements
 
